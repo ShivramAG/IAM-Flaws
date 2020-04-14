@@ -21,7 +21,7 @@ As of now, the script supports the following activities:
 ![Image of IAM-Cis-Privesc Exploitation ](https://github.com/nikhil1232/IAM-Flaws/blob/master/images/iam-privesc-exploit.png)</br></br>
 
 ## Requirements
-<code>git clone https://github.com/ShivramAG/IAM-Flaws/ </code> </br>
+<code>git clone https://github.com/ShivramAG/IAM-Flaws.git </code> </br>
 <code>cd IAM-Flaws</code></br>
 <code>pip install -r requirements.txt</code></br>
 <code>apt-get install jq</code></br>
