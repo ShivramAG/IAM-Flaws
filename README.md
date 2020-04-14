@@ -1,13 +1,13 @@
 # IAM-Flaws
 ### AWS IAM Security Toolkit: CIS Benchmarks | Enumeration | Privilege Escalation
 
-A simple bash script that me along with my friend [Shivram Amirtha](https://github.com/shivramAG) have built that checks for misconfigurations in User and Group Policy Permissions in order to escalate privileges along with some additional features like CIS Benchmark checks and IAM Enumeration.
+A simple bash script that me along with my friend [Nikhil Sahoo](https://github.com/nikhil1232) have built that checks for misconfigurations in User and Group Policy Permissions in order to escalate privileges along with some additional features like CIS Benchmark checks and IAM Enumeration.
 
 ![Image of IAM-Flaws](https://github.com/nikhil1232/IAM-Flaws/blob/master/images/iam-flaws.png)
 
 
 **It is recommended to go through this Blog before proceeding:**</br>
-https://theblocksec.com/2020/04/14/iam-flaws-exploiting-user-and-group-policies-in-aws-iam/
+https://medium.com/@amirthashivram/iam-flaws-exploiting-user-and-group-policies-in-aws-iam-952a4c7a63d2
 
 As of now, the script supports the following activities:
 
@@ -21,7 +21,7 @@ As of now, the script supports the following activities:
 ![Image of IAM-Cis-Privesc Exploitation ](https://github.com/nikhil1232/IAM-Flaws/blob/master/images/iam-privesc-exploit.png)</br></br>
 
 ## Requirements
-<code>git clone https://github.com/nikhil1232/IAM-Flaws/ </code> </br>
+<code>git clone https://github.com/ShivramAG/IAM-Flaws/ </code> </br>
 <code>cd IAM-Flaws</code></br>
 <code>pip install -r requirements.txt</code></br>
 <code>apt-get install jq</code></br>
